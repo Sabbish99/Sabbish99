@@ -4,7 +4,7 @@
 
 I am Frontend Web Developer & UI/UX Designer......
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JAVA / C /REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Development 
 - 🌱 I’m currently learning Arduino 
