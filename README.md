@@ -1,6 +1,6 @@
 ### Sabbir Ahmed
 #### Web Developer & UI/UX Designer
-![Web Developer & UI/UX Designer](https://scontent.fdac151-1.fna.fbcdn.net/v/t39.30808-6/362989312_3374221359574731_201364011849855496_n.jpg?_nc_cat=103&cb=99be929b-3346023f&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeEDzlrH4gzzCNVBPXChhmq-EgWHADQ3uNISBYcANDe40uBNW7PRV9KO9QUqBVWJFCd9RSXRndIIMymJDyD5ahQB&_nc_ohc=LSpGeRnpIAsAX9M0QlQ&_nc_ht=scontent.fdac151-1.fna&oh=00_AfAP1J9DBlKhYgQnpvgxmLTOMc4QnKFijg9wzALA3jFKug&oe=64DB0A8A)
+
 
 I am Frontend Web Developer & UI/UX Designer......
 
