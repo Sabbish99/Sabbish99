@@ -4,8 +4,9 @@
 
 I am Frontend Web Developer & UI/UX Designer......
 
-Skills: JAVA / C /REACT / JS / HTML / CSS </br>
+Skills: JAVA / C /REACT / JS / HTML / CSS 
 <p><a href='https://10fastfingers.com/user/3580133/'> My Typing Speed </a> </p>
+
 - 🔭 I’m currently working on Development 
 - 🌱 I’m currently learning Arduino 
 - 👯 I’m looking to collaborate on Github 
