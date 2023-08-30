@@ -1,8 +1,8 @@
 ### Sabbir Ahmed
-#### Web Developer & UI/UX Designer
+#### Web Developer & Problem Solver
 
 
-I am Frontend Web Developer & UI/UX Designer......
+I am Frontend Web Developer & Problem Solver......
 
 Skills: JAVA / C /REACT / JS / HTML / CSS 
 <p><a href='https://10fastfingers.com/user/3580133/'> My Typing Speed </a> </p>
